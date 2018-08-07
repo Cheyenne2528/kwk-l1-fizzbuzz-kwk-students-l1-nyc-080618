@@ -1,3 +1,3 @@
 def FizzBuzz (number)
 
-if number
+if number / 3 
