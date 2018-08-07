@@ -1,4 +1,4 @@
-df FizzBuzz
+def FizzBuzz
 
 describe "fizzbuzz"
 
