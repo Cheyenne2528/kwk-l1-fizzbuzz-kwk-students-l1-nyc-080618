@@ -1,12 +1,12 @@
 def FizzBuzz (number)
 
-if (number%3) == 0
+if number%3 == 0
   return "Fizz"
 
-elsif (number&5) == 0
+elsif number&5 == 0
   return "Buzz"
 
-elsif (number%15) == 0
+elsif number%15 == 0
   return "FizzBuzz"
 end
 end
