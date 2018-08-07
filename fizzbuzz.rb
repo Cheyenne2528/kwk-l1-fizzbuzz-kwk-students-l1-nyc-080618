@@ -10,5 +10,3 @@ elsif number%15 == 0
   return "FizzBuzz"
 end
 end
-
-fizzbuzz(15)
